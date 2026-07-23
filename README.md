@@ -258,7 +258,7 @@ Most of my work involves taking an idea—whether it's from research, a hackatho
 </p>
 
 <p align="center">
-<a href="mailto:nzachp@gmail.com">📧 nzachp@gmail.com</a> •
+<a href="mailto:nzachp@gmail.com">📧 nzachp@gmail.com</a> 
 <a href="https://www.linkedin.com/in/noahzach/">💼 LinkedIn</a>
 </p>
 
