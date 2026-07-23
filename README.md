@@ -1,190 +1,148 @@
 <div align="center">
 
-# Hi there, I'm Noah Zach 👋
+# Hey 👋 I'm Noah Zach
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=AI+Engineer;Cloud+Developer;Security+Enthusiast;Machine+Learning+Researcher;Building+Cool+Things+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Building+AI+%26+Cloud+Projects;Interested+in+Cyber+Security;Always+Learning+Something+New" />
 
-<br>
+### Computer Science Student • AI • Cloud • Security • Research
 
-### 🚀 Building intelligent systems through AI, Security & Cloud Computing
+Building software that turns ideas into real-world applications.
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-🎓 Computer Science Student
+I'm a Computer Science student with an interest in Artificial Intelligence, Cloud Computing, Cyber Security, and Backend Development.
 
-🤖 AI & Machine Learning Engineer
+I enjoy building projects that solve practical problems—from AI-powered applications to cloud security tools—and exploring how research ideas can become working software.
 
-☁️ Cloud Computing Enthusiast
+### 🔨 Currently Building
 
-🔐 Cyber Security Explorer
-
-📈 Quantitative Systems Builder
-
-🧠 Love turning research into production-ready software.
-
----
-
-# 🚀 Currently Working On
-
-- 👻 GhostWire
-- 🧠 Dynamic Layer Routing for LLMs
-- ☁️ CloudGuard
-- 📈 Quantitative Trading Engine
-- 🤖 AI Resume Analyzer
+- 👻 **GhostWire** — Hallucination detection for Large Language Models
+- ☁️ **CloudGuard** — Google Cloud IAM & ACL Security Analyzer
+- 📈 **Quantitative Trading Engine** — ML-powered trading research
+- 🧠 **Dynamic Layer Routing** — Efficient Large Language Model research
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,java,bash"/>
-</p>
-
-### AI / Machine Learning
+## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,gcp,linux,git,github"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=python" height="45"/> Python &nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="45"/> JavaScript &nbsp;
+<img src="https://skillicons.dev/icons?i=ts" height="45"/> TypeScript &nbsp;
+<img src="https://skillicons.dev/icons?i=c" height="45"/> C &nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="45"/> C++ &nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="45"/> Java
 </p>
 
 ---
 
-# 🌱 Currently Learning
+## 🤖 AI / Machine Learning
 
-🧠 Large Language Models
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch" height="45"/> PyTorch &nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/> TensorFlow
+</p>
 
-⚡ High Performance Computing
-
-☁️ Cloud Security
-
-🏗️ System Design
-
-🚀 MLOps
-
-🔬 Distributed Systems
+- Scikit-Learn
+- Pandas
+- NumPy
+- XGBoost
 
 ---
 
-# 📂 Featured Projects
+## ⚙ Backend
 
-## 👻 GhostWire
-
-AI-powered hallucination detection framework for Large Language Models.
-
----
-
-## ☁️ CloudGuard
-
-Cloud ACL scanner and security analyzer for Google Cloud Platform.
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/> Node.js &nbsp;
+<img src="https://skillicons.dev/icons?i=express" height="45"/> Express &nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" height="45"/> FastAPI
+</p>
 
 ---
 
-## 📈 Quantitative Trading Engine
+## ☁ Cloud & DevOps
 
-Machine-learning powered quantitative trading system with automated backtesting.
-
----
-
-## 🧠 Dynamic Layer Routing
-
-Research on efficient inference for Large Language Models using conditional computation.
-
----
-
-## 🤖 Resume AI
-
-AI-powered semantic resume analyzer.
+<p>
+<img src="https://skillicons.dev/icons?i=gcp" height="45"/> Google Cloud Platform &nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="45"/> Docker &nbsp;
+<img src="https://skillicons.dev/icons?i=linux" height="45"/> Linux &nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="45"/> Git &nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="45"/> GitHub
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/> PostgreSQL &nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/> MySQL &nbsp;
+<img src="https://skillicons.dev/icons?i=sqlite" height="45"/> SQLite
+</p>
+
+---
+
+# 🎯 Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Cyber Security
+- Cloud Computing
+- Large Language Models
+- Backend Engineering
+- Quantitative Systems
+- Open Source
+
+---
+
+# 📚 Currently Learning
+
+- MLOps
+- System Design
+- Cloud Security
+- Distributed Systems
+- Advanced Machine Learning
+
+---
+
+# 🎵 Currently Listening To
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NOAHZACH&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOAHZACH&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🤝 Connect With Me
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=NOAHZACH&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NOAHZACH&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NOAHZACH&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p>
+<p align="left">
 
 <a href="mailto:nzachp@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 <a href="https://www.linkedin.com/in/noahzach/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 </p>
+
+📧 **Email:** nzachp@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/noahzach/
 
 ---
 
 <div align="center">
 
-### 💭 Favorite Quote
+> *"Build. Learn. Improve. Repeat."*
 
-*"Build. Break. Learn. Repeat."*
-
-⭐ Thanks for visiting my profile!
+⭐ Thanks for stopping by!
 
 </div>
