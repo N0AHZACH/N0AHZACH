@@ -10,21 +10,50 @@ Designing intelligent systems, secure cloud applications, and scalable software 
 
 <br>
 
+<table>
+<tr>
+<td align="center">
+
 <a href="mailto:nzachp@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+</td>
+
+<td width="25"></td>
+
+<td align="center">
 
 <a href="https://www.linkedin.com/in/noahzach/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+</td>
+</tr>
 
-📧 <a href="mailto:nzachp@gmail.com"><b>nzachp@gmail.com</b></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-💼 <a href="https://www.linkedin.com/in/noahzach/"><b>linkedin.com/in/noahzach</b></a>
+<tr>
+
+<td align="center">
+
+<a href="mailto:nzachp@gmail.com">
+<b>nzachp@gmail.com</b>
+</a>
+
+</td>
+
+<td></td>
+
+<td align="center">
+
+<a href="https://www.linkedin.com/in/noahzach/">
+<b>linkedin.com/in/noahzach</b>
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -34,34 +63,41 @@ Designing intelligent systems, secure cloud applications, and scalable software 
 
 I'm a Computer Science student passionate about **Artificial Intelligence**, **Cloud Computing**, **Cyber Security**, and **Backend Engineering**.
 
-I enjoy transforming research ideas, hackathon concepts, and real-world problems into practical software. My focus is on building scalable, secure, and production-ready systems while continuously learning new technologies.
+I enjoy taking ideas from research papers, hackathons, and real-world problems and transforming them into practical software.
+
+My goal is to build intelligent, secure, and scalable systems while continuously learning new technologies and contributing to meaningful projects.
 
 ---
 
 # 🚀 Featured Projects
 
 ### 👻 GhostWire
-Hallucination detection framework for Large Language Models.
+
+Hallucination detection framework for Large Language Models focused on improving AI reliability.
 
 ---
 
 ### ☁️ CloudGuard
+
 Security analysis platform for Google Cloud IAM policies and Access Control Lists.
 
 ---
 
 ### 📈 Quantitative Trading Engine
-Machine learning-powered quantitative trading platform featuring predictive modeling and backtesting.
+
+Machine learning-powered quantitative trading platform featuring predictive models, automated pipelines, and backtesting.
 
 ---
 
 ### 🧠 Dynamic Layer Routing
+
 Research exploring efficient inference techniques for Large Language Models.
 
 ---
 
 ### 📋 Student Task Manager
-Full-stack task management application for productivity and collaboration.
+
+Full-stack productivity and task management application.
 
 ---
 
@@ -77,7 +113,7 @@ Full-stack task management application for productivity and collaboration.
 
 <p align="center">
 
-**Python • C++ • C • Java • JavaScript • TypeScript**
+<b>Python • C++ • C • Java • JavaScript • TypeScript</b>
 
 </p>
 
@@ -101,7 +137,7 @@ Full-stack task management application for productivity and collaboration.
 
 <p align="center">
 
-**PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy • XGBoost**
+<b>PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy • XGBoost</b>
 
 </p>
 
@@ -117,7 +153,7 @@ Full-stack task management application for productivity and collaboration.
 
 <p align="center">
 
-**Node.js • Express • FastAPI**
+<b>Node.js • Express • FastAPI</b>
 
 </p>
 
@@ -133,13 +169,13 @@ Full-stack task management application for productivity and collaboration.
 
 <p align="center">
 
-**Google Cloud • Docker • Linux • Git • GitHub**
+<b>Google Cloud • Docker • Linux • Git • GitHub</b>
 
 </p>
 
 ---
 
-## 🗄️ Databases
+## 🗄 Databases
 
 <p align="center">
 
@@ -149,7 +185,7 @@ Full-stack task management application for productivity and collaboration.
 
 <p align="center">
 
-**PostgreSQL • MySQL • SQLite**
+<b>PostgreSQL • MySQL • SQLite</b>
 
 </p>
 
@@ -168,17 +204,17 @@ Full-stack task management application for productivity and collaboration.
 
 # 🎯 Current Focus
 
-- 🤖 Building AI-powered applications
-- ☁️ Designing secure cloud architectures
-- 🔐 Backend engineering
-- 📊 Machine Learning research
-- 🌍 Open Source contributions
+- 🤖 AI Applications & LLMs
+- ☁️ Cloud Infrastructure & Security
+- 🔐 Secure Backend Systems
+- 📊 Machine Learning Research
+- 🌍 Open Source Contributions
 
 ---
 
-# 🎵 Music
+# 💡 Beyond Code
 
-> Usually coding with **Lo-fi**, **Synthwave**, **EDM**, or **Rock** playing in the background.
+Outside of coding, I enjoy exploring emerging technologies, reading research papers, and building side projects that challenge me to learn something new. I believe the best way to learn is by building.
 
 ---
 
@@ -193,11 +229,11 @@ Full-stack task management application for productivity and collaboration.
 
 <div align="center">
 
-### 💭 Philosophy
+## 💭 Philosophy
 
 > **Build. Learn. Improve. Repeat.**
 
-Software is never finished—it is continuously refined through curiosity, experimentation, and iteration.
+Software is never finished—it evolves through curiosity, experimentation, and continuous improvement.
 
 ---
 
