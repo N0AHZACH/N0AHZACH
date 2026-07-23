@@ -2,11 +2,11 @@
 
 # 👋 Hey, I'm Noah Zach
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Code;Artificial+Intelligence;Cloud+Computing;Cyber+Security;Research+%7C+Backend+Engineering;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Turning+Ideas+Into+Code;Artificial+Intelligence;Cloud+Computing;Cyber+Security;Backend+Engineering;Research+%7C+Open+Source;Always+Building+Something+New" />
 
-### Computer Science Student • AI & Machine Learning • Cloud Computing • Cyber Security
+### Computer Science Student | AI • Cloud • Cyber Security • Backend Engineering
 
-Building software that transforms ideas into practical, real-world applications.
+Designing intelligent systems, secure cloud applications, and scalable software that solve real-world problems.
 
 <br>
 
@@ -14,7 +14,7 @@ Building software that transforms ideas into practical, real-world applications.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/noahzach/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -23,9 +23,7 @@ Building software that transforms ideas into practical, real-world applications.
 <br><br>
 
 📧 <a href="mailto:nzachp@gmail.com"><b>nzachp@gmail.com</b></a>
-
-<br>
-
+&nbsp;&nbsp;•&nbsp;&nbsp;
 💼 <a href="https://www.linkedin.com/in/noahzach/"><b>linkedin.com/in/noahzach</b></a>
 
 </div>
@@ -34,18 +32,16 @@ Building software that transforms ideas into practical, real-world applications.
 
 # 👨‍💻 About Me
 
-I'm a Computer Science student passionate about building software across **Artificial Intelligence**, **Cloud Computing**, **Cyber Security**, and **Backend Development**.
+I'm a Computer Science student passionate about **Artificial Intelligence**, **Cloud Computing**, **Cyber Security**, and **Backend Engineering**.
 
-I enjoy transforming ideas from research papers, hackathons, and real-world problems into practical applications.
-
-My interests include scalable systems, efficient AI, cloud infrastructure, and building software that solves meaningful problems.
+I enjoy transforming research ideas, hackathon concepts, and real-world problems into practical software. My focus is on building scalable, secure, and production-ready systems while continuously learning new technologies.
 
 ---
 
 # 🚀 Featured Projects
 
 ### 👻 GhostWire
-Hallucination detection framework for Large Language Models focused on improving AI reliability.
+Hallucination detection framework for Large Language Models.
 
 ---
 
@@ -55,17 +51,17 @@ Security analysis platform for Google Cloud IAM policies and Access Control List
 ---
 
 ### 📈 Quantitative Trading Engine
-Machine learning-powered quantitative trading platform featuring data pipelines, predictive models, and backtesting.
+Machine learning-powered quantitative trading platform featuring predictive modeling and backtesting.
 
 ---
 
 ### 🧠 Dynamic Layer Routing
-Research project exploring efficient inference techniques for Large Language Models.
+Research exploring efficient inference techniques for Large Language Models.
 
 ---
 
 ### 📋 Student Task Manager
-Full-stack task management application built for productivity and collaboration.
+Full-stack task management application for productivity and collaboration.
 
 ---
 
@@ -81,7 +77,7 @@ Full-stack task management application built for productivity and collaboration.
 
 <p align="center">
 
-Python • C++ • C • Java • JavaScript • TypeScript
+**Python • C++ • C • Java • JavaScript • TypeScript**
 
 </p>
 
@@ -105,7 +101,7 @@ Python • C++ • C • Java • JavaScript • TypeScript
 
 <p align="center">
 
-PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy • XGBoost
+**PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy • XGBoost**
 
 </p>
 
@@ -121,7 +117,7 @@ PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy • XGBoost
 
 <p align="center">
 
-Node.js • Express • FastAPI
+**Node.js • Express • FastAPI**
 
 </p>
 
@@ -137,13 +133,13 @@ Node.js • Express • FastAPI
 
 <p align="center">
 
-Google Cloud • Docker • Linux • Git • GitHub
+**Google Cloud • Docker • Linux • Git • GitHub**
 
 </p>
 
 ---
 
-## 🗄 Databases
+## 🗄️ Databases
 
 <p align="center">
 
@@ -153,7 +149,7 @@ Google Cloud • Docker • Linux • Git • GitHub
 
 <p align="center">
 
-PostgreSQL • MySQL • SQLite
+**PostgreSQL • MySQL • SQLite**
 
 </p>
 
@@ -165,52 +161,31 @@ PostgreSQL • MySQL • SQLite
 - ☁️ Cloud Security
 - 🚀 MLOps
 - ⚙️ Distributed Systems
-- 📦 Containerization
 - 🏗️ System Design
+- 📦 Containerization
 
 ---
 
 # 🎯 Current Focus
 
-- Building AI-powered applications
-- Exploring scalable cloud architectures
-- Researching efficient LLM inference
-- Contributing to open-source projects
-- Learning advanced backend engineering
+- 🤖 Building AI-powered applications
+- ☁️ Designing secure cloud architectures
+- 🔐 Backend engineering
+- 📊 Machine Learning research
+- 🌍 Open Source contributions
 
 ---
 
-# 🎧 Currently Listening To
+# 🎵 Music
 
-<p align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ohphaiqdaegp4fwfry1lrbk50&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
-
-</p>
+> Usually coding with **Lo-fi**, **Synthwave**, **EDM**, or **Rock** playing in the background.
 
 ---
 
 <div align="center">
 
-## 🤝 Let's Connect
-
-<a href="mailto:nzachp@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/noahzach/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-📧 <a href="mailto:nzachp@gmail.com"><b>nzachp@gmail.com</b></a>
-
-<br>
-
-💼 <a href="https://www.linkedin.com/in/noahzach/"><b>linkedin.com/in/noahzach</b></a>
+> *"Any sufficiently advanced technology is indistinguishable from magic."*  
+> **— Arthur C. Clarke**
 
 </div>
 
@@ -220,10 +195,12 @@ PostgreSQL • MySQL • SQLite
 
 ### 💭 Philosophy
 
-> **"Build. Learn. Improve. Repeat."**
+> **Build. Learn. Improve. Repeat.**
 
-*"Great software begins with curiosity and is refined through continuous learning."*
+Software is never finished—it is continuously refined through curiosity, experimentation, and iteration.
 
-⭐ Thanks for stopping by!
+---
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
