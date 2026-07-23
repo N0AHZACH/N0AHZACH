@@ -1,15 +1,22 @@
 <div align="center">
 
-# 👋 Hi, I'm Noah Zach
+# 👋 Hey, I'm Noah Zach
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Artificial+Intelligence;Cloud+Computing;Cyber+Security;Building+Projects+That+Matter" />
 
 ### Computer Science Student • AI • Cloud • Security • Research
 
-Building software that transforms ideas into real-world solutions.
+Building software that transforms ideas into practical, real-world applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noahzach/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:nzachp@gmail.com)
+<br>
+
+<a href="mailto:nzachp@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nzachp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/noahzach/">
+  <img src="https://img.shields.io/badge/LinkedIn-Noah%20Zach-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
@@ -17,9 +24,9 @@ Building software that transforms ideas into real-world solutions.
 
 # 👨‍💻 About Me
 
-I'm a Computer Science student who enjoys building software across **Artificial Intelligence**, **Cloud Computing**, **Cyber Security**, and **Backend Engineering**.
+I'm a Computer Science student who enjoys building software across **Artificial Intelligence**, **Cloud Computing**, **Cyber Security**, and **Backend Development**.
 
-I enjoy taking an idea—whether from research, a hackathon, or a real-world problem—and turning it into a working application.
+Most of my work involves taking an idea—whether it's from research, a hackathon, or a real-world problem—and turning it into a working application.
 
 ---
 
@@ -27,11 +34,11 @@ I enjoy taking an idea—whether from research, a hackathon, or a real-world pro
 
 | Project | Description |
 |---------|-------------|
-| 👻 GhostWire | Hallucination detection framework for Large Language Models |
-| ☁️ CloudGuard | Google Cloud IAM & ACL Security Analyzer |
-| 📈 Quantitative Trading Engine | Machine-learning based trading research platform |
-| 🧠 Dynamic Layer Routing | Research on efficient inference for Large Language Models |
-| 📋 Student Task Manager | Full-stack task management application |
+| 👻 **GhostWire** | Hallucination detection framework for Large Language Models |
+| ☁️ **CloudGuard** | Google Cloud IAM & ACL Security Analyzer |
+| 📈 **Quantitative Trading Engine** | Machine learning-powered trading research platform |
+| 🧠 **Dynamic Layer Routing** | Research on efficient inference for Large Language Models |
+| 📋 **Student Task Manager** | Full-stack task management application |
 
 ---
 
@@ -93,22 +100,22 @@ I enjoy taking an idea—whether from research, a hackathon, or a real-world pro
 </td>
 
 <td>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" width="55"/><br>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="55"/><br>
 <sub><b>Scikit-Learn</b></sub>
 </td>
 
 <td>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="55"/><br>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="55"/><br>
 <sub><b>Pandas</b></sub>
 </td>
 
 <td>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="55"/><br>
+<img src="https://cdn.simpleicons.org/numpy/013243" width="55"/><br>
 <sub><b>NumPy</b></sub>
 </td>
 
 <td>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=xgboost" width="55"/><br>
+<img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="55"/><br>
 <sub><b>XGBoost</b></sub>
 </td>
 
@@ -202,13 +209,25 @@ I enjoy taking an idea—whether from research, a hackathon, or a real-world pro
 
 ---
 
-# 📚 Currently Learning
+# 🌱 Currently Learning
 
-- 🧠 Large Language Models
-- ☁️ Cloud Security
-- ⚙️ System Design
-- 🚀 MLOps
-- 🔬 Distributed Systems
+- Large Language Models
+- MLOps
+- Cloud Security
+- System Design
+- Distributed Systems
+
+---
+
+# 🎯 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Cyber Security
+- Cloud Computing
+- Backend Development
+- Quantitative Systems
+- Open Source
 
 ---
 
@@ -216,13 +235,13 @@ I enjoy taking an idea—whether from research, a hackathon, or a real-world pro
 
 <p align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
 
 </p>
 
 ---
 
-# 🤝 Connect
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -230,17 +249,26 @@ I enjoy taking an idea—whether from research, a hackathon, or a real-world pro
 <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/noahzach/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
 </p>
 
+<p align="center">
+<a href="mailto:nzachp@gmail.com">📧 nzachp@gmail.com</a> •
+<a href="https://www.linkedin.com/in/noahzach/">💼 LinkedIn</a>
+</p>
+
+---
+
 <div align="center">
 
 ### 💭 Philosophy
 
-> *"Build. Learn. Improve. Repeat."*
+> **"Build. Learn. Improve. Repeat."**
 
 Thanks for stopping by! ⭐
 
