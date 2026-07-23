@@ -246,7 +246,7 @@ Full-stack task management application.
 
 <p align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=1DB954&bar_color_cover=false"/>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ohphaiqdaegp4fwfry1lrbk50&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=1DB954&bar_color_cover=false"/>
 
 </p>
 
