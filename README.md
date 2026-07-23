@@ -2,20 +2,20 @@
 
 # 👋 Hey, I'm Noah Zach
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Artificial+Intelligence;Cloud+Computing;Cyber+Security;Building+Projects+That+Matter" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Turning+Ideas+Into+Code;Artificial+Intelligence;Cloud+Computing;Cyber+Security;Research+%7C+Open+Source+%7C+Backend" />
 
-### Computer Science Student • AI • Cloud • Security • Research
+### Computer Science Student • AI & Machine Learning • Cloud Computing • Cyber Security
 
 Building software that transforms ideas into practical, real-world applications.
 
 <br>
 
 <a href="mailto:nzachp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-nzachp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-nzachp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/noahzach/">
-  <img src="https://img.shields.io/badge/LinkedIn-Noah%20Zach-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Noah%20Zach-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -24,21 +24,43 @@ Building software that transforms ideas into practical, real-world applications.
 
 # 👨‍💻 About Me
 
-I'm a Computer Science student who enjoys building software across **Artificial Intelligence**, **Cloud Computing**, **Cyber Security**, and **Backend Development**.
+I'm a Computer Science student who enjoys designing and building software across **Artificial Intelligence**, **Cloud Computing**, **Cyber Security**, and **Backend Development**.
 
-Most of my work involves taking an idea—whether it's from research, a hackathon, or a real-world problem—and turning it into a working application.
+I like taking ideas from research papers, hackathons, and real-world problems and turning them into working applications.
+
+Currently, I'm exploring efficient AI systems, cloud security, and scalable backend engineering.
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 👻 **GhostWire** | Hallucination detection framework for Large Language Models |
-| ☁️ **CloudGuard** | Google Cloud IAM & ACL Security Analyzer |
-| 📈 **Quantitative Trading Engine** | Machine learning-powered trading research platform |
-| 🧠 **Dynamic Layer Routing** | Research on efficient inference for Large Language Models |
-| 📋 **Student Task Manager** | Full-stack task management application |
+### 👻 GhostWire
+
+Hallucination detection framework for Large Language Models.
+
+---
+
+### ☁️ CloudGuard
+
+Google Cloud IAM & ACL Security Analyzer.
+
+---
+
+### 📈 Quantitative Trading Engine
+
+Machine learning-powered quantitative trading platform for market research and backtesting.
+
+---
+
+### 🧠 Dynamic Layer Routing
+
+Research exploring efficient inference for Large Language Models.
+
+---
+
+### 📋 Student Task Manager
+
+Full-stack task management application.
 
 ---
 
@@ -50,32 +72,32 @@ Most of my work involves taking an idea—whether it's from research, a hackatho
 <tr align="center">
 
 <td>
-<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=python" width="60"/><br>
 <sub><b>Python</b></sub>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=js" width="60"/><br>
 <sub><b>JavaScript</b></sub>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=ts" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=ts" width="60"/><br>
 <sub><b>TypeScript</b></sub>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=c" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=c" width="60"/><br>
 <sub><b>C</b></sub>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=cpp" width="60"/><br>
 <sub><b>C++</b></sub>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=java" width="60"/><br>
 <sub><b>Java</b></sub>
 </td>
 
@@ -90,32 +112,32 @@ Most of my work involves taking an idea—whether it's from research, a hackatho
 <tr align="center">
 
 <td>
-<img src="https://skillicons.dev/icons?i=pytorch" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=pytorch" width="60"/><br>
 <sub><b>PyTorch</b></sub>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="60"/><br>
 <sub><b>TensorFlow</b></sub>
 </td>
 
 <td>
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="55"/><br>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="60"/><br>
 <sub><b>Scikit-Learn</b></sub>
 </td>
 
 <td>
-<img src="https://cdn.simpleicons.org/pandas/150458" width="55"/><br>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="60"/><br>
 <sub><b>Pandas</b></sub>
 </td>
 
 <td>
-<img src="https://cdn.simpleicons.org/numpy/013243" width="55"/><br>
+<img src="https://cdn.simpleicons.org/numpy/013243" width="60"/><br>
 <sub><b>NumPy</b></sub>
 </td>
 
 <td>
-<img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="55"/><br>
+<img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="60"/><br>
 <sub><b>XGBoost</b></sub>
 </td>
 
@@ -124,23 +146,23 @@ Most of my work involves taking an idea—whether it's from research, a hackatho
 
 ---
 
-## ⚙️ Backend Development
+## ⚙ Backend Development
 
 <table>
 <tr align="center">
 
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>
 <sub><b>Node.js</b></sub>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=express" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=express" width="60"/><br>
 <sub><b>Express</b></sub>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=fastapi" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=fastapi" width="60"/><br>
 <sub><b>FastAPI</b></sub>
 </td>
 
@@ -149,33 +171,33 @@ Most of my work involves taking an idea—whether it's from research, a hackatho
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁ Cloud & DevOps
 
 <table>
 <tr align="center">
 
 <td>
-<img src="https://skillicons.dev/icons?i=gcp" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=gcp" width="60"/><br>
 <sub><b>Google Cloud</b></sub>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=docker" width="60"/><br>
 <sub><b>Docker</b></sub>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=linux" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=linux" width="60"/><br>
 <sub><b>Linux</b></sub>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=git" width="60"/><br>
 <sub><b>Git</b></sub>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=github" width="60"/><br>
 <sub><b>GitHub</b></sub>
 </td>
 
@@ -190,17 +212,17 @@ Most of my work involves taking an idea—whether it's from research, a hackatho
 <tr align="center">
 
 <td>
-<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=postgres" width="60"/><br>
 <sub><b>PostgreSQL</b></sub>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>
 <sub><b>MySQL</b></sub>
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=sqlite" width="60"/><br>
 <sub><b>SQLite</b></sub>
 </td>
 
@@ -209,58 +231,40 @@ Most of my work involves taking an idea—whether it's from research, a hackatho
 
 ---
 
-# 🌱 Currently Learning
+# 📚 Currently Exploring
 
-- Large Language Models
-- MLOps
-- Cloud Security
-- System Design
-- Distributed Systems
-
----
-
-# 🎯 Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Cyber Security
-- Cloud Computing
-- Backend Development
-- Quantitative Systems
-- Open Source
+- 🧠 Large Language Models
+- ☁️ Cloud Security
+- 🚀 MLOps
+- ⚙️ System Design
+- 📦 Containerization
+- 🔬 Distributed Systems
 
 ---
 
-# 🎵 Currently Listening To
+# 🎧 What I'm Listening To
 
 <p align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=1DB954&bar_color_cover=false"/>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+<div align="center">
 
-<p align="center">
+## 📫 Let's Connect
 
 <a href="mailto:nzachp@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/noahzach/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
-
-<p align="center">
-<a href="mailto:nzachp@gmail.com">📧 nzachp@gmail.com</a> 
-<a href="https://www.linkedin.com/in/noahzach/">💼 LinkedIn</a>
-</p>
+</div>
 
 ---
 
@@ -270,6 +274,6 @@ Most of my work involves taking an idea—whether it's from research, a hackatho
 
 > **"Build. Learn. Improve. Repeat."**
 
-Thanks for stopping by! ⭐
+⭐ Thanks for stopping by!
 
 </div>
