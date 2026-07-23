@@ -125,54 +125,17 @@ AI-powered resume analyzer using semantic search and Large Language Models.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NOAHZACH&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOAHZACH&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=NOAHZACH&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NOAHZACH&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🤝 Let's Connect
 
-📧 Email: **your-email@example.com**
+📧 Email: **nzachp@gmail.com**
 
-💼 LinkedIn: **https://linkedin.com/in/your-profile**
-
-🌐 Portfolio: **Coming Soon**
+💼 LinkedIn: **https://www.linkedin.com/in/noahzach/**
 
 ---
 
 # 💡 Philosophy
 
 > *"Build. Learn. Share. Repeat."*
-
-I believe the best way to learn is by building meaningful projects, contributing to open source, and continuously exploring new technologies.
-
 ---
 
 ⭐ Thanks for visiting my profile!
