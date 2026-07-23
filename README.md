@@ -8,11 +8,6 @@ AI Engineer • Security Enthusiast • Cloud Developer • Researcher
 Building intelligent systems that solve real-world problems through AI, Security, and Cloud Computing.
 </p>
 
-<p align="center">
-  <a href="https://github.com/NOAHZACH">
-    <img src="https://komarev.com/ghpvc/?username=NOAHZACH&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
 
 ---
 
