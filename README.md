@@ -1,66 +1,91 @@
-<h1 align="center">Hi, I'm Noah</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer • Security Enthusiast • Cloud Developer • Researcher
-</h3>
+# Hi there, I'm Noah Zach 👋
 
-<p align="center">
-Building intelligent systems that solve real-world problems through AI, Security, and Cloud Computing.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=AI+Engineer;Cloud+Developer;Security+Enthusiast;Machine+Learning+Researcher;Building+Cool+Things+Every+Day" />
 
+<br>
+
+### 🚀 Building intelligent systems through AI, Security & Cloud Computing
+
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a Computer Science student passionate about building scalable software, AI-powered applications, cloud infrastructure, and security tools.
+🎓 Computer Science Student
 
-I enjoy taking ideas from research papers and transforming them into real, production-ready software. Whether it's machine learning, cybersecurity, distributed systems, or backend engineering, I love solving challenging technical problems.
+🤖 AI & Machine Learning Engineer
 
----
+☁️ Cloud Computing Enthusiast
 
-# 🚀 Current Focus
+🔐 Cyber Security Explorer
 
-- 🤖 AI & Machine Learning
-- ☁️ Cloud Computing
-- 🔐 Cyber Security
-- 📈 Quantitative Systems
-- 🧠 Large Language Models
-- ⚡ High Performance Computing
+📈 Quantitative Systems Builder
+
+🧠 Love turning research into production-ready software.
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Currently Working On
+
+- 👻 GhostWire
+- 🧠 Dynamic Layer Routing for LLMs
+- ☁️ CloudGuard
+- 📈 Quantitative Trading Engine
+- 🤖 AI Resume Analyzer
+
+---
+
+# 🛠️ Tech Stack
 
 ### Languages
 
-```text
-Python • JavaScript • TypeScript • SQL • C
-```
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,java,bash"/>
+</p>
 
-### AI / ML
+### AI / Machine Learning
 
-```text
-PyTorch • TensorFlow • Scikit-Learn • XGBoost • Pandas • NumPy
-```
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy"/>
+</p>
 
 ### Backend
 
-```text
-FastAPI • Node.js • Express
-```
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
 
 ### Cloud & DevOps
 
-```text
-Google Cloud • Docker • Linux • Git
-```
+<p>
+<img src="https://skillicons.dev/icons?i=docker,gcp,linux,git,github"/>
+</p>
 
 ### Databases
 
-```text
-PostgreSQL • MySQL • SQLite
-```
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+🧠 Large Language Models
+
+⚡ High Performance Computing
+
+☁️ Cloud Security
+
+🏗️ System Design
+
+🚀 MLOps
+
+🔬 Distributed Systems
 
 ---
 
@@ -74,65 +99,92 @@ AI-powered hallucination detection framework for Large Language Models.
 
 ## ☁️ CloudGuard
 
-Cloud security scanner for Google Cloud Platform that analyzes IAM policies and access configurations.
+Cloud ACL scanner and security analyzer for Google Cloud Platform.
 
 ---
 
 ## 📈 Quantitative Trading Engine
 
-Machine-learning powered trading engine with feature engineering, automated pipelines and backtesting.
+Machine-learning powered quantitative trading system with automated backtesting.
 
 ---
 
 ## 🧠 Dynamic Layer Routing
 
-Research project exploring efficient token-level routing for Large Language Models.
+Research on efficient inference for Large Language Models using conditional computation.
 
 ---
 
 ## 🤖 Resume AI
 
-AI-powered resume analyzer using semantic search and Large Language Models.
+AI-powered semantic resume analyzer.
 
 ---
 
-# 🌱 Currently Learning
+# 📊 GitHub Stats
 
-- Advanced Machine Learning
-- Cloud Security
-- System Design
-- MLOps
-- Distributed Systems
-- LLM Optimization
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NOAHZACH&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 🎯 Interests
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOAHZACH&layout=compact&theme=tokyonight&hide_border=true"/>
 
-- Artificial Intelligence
-- Cyber Security
-- Cloud Computing
-- Machine Learning
-- Research
-- Quantitative Finance
-- Open Source
-- Backend Engineering
+</p>
 
 ---
 
-# 🤝 Let's Connect
+# 🔥 GitHub Streak
 
-📧 Email: **nzachp@gmail.com**
+<p align="center">
 
-💼 LinkedIn: **https://www.linkedin.com/in/noahzach/**
+<img src="https://streak-stats.demolab.com?user=NOAHZACH&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 💡 Philosophy
+# 📈 Contribution Graph
 
-> *"Build. Learn. Share. Repeat."*
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NOAHZACH&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
 ---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NOAHZACH&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="mailto:nzachp@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/noahzach/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💭 Favorite Quote
+
+*"Build. Break. Learn. Repeat."*
 
 ⭐ Thanks for visiting my profile!
 
-If you like any of my work, consider giving the repository a ⭐.
+</div>
