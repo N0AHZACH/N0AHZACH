@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Noah Zach
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Turning+Ideas+Into+Code;Artificial+Intelligence;Cloud+Computing;Cyber+Security;Research+%7C+Open+Source+%7C+Backend" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Code;Artificial+Intelligence;Cloud+Computing;Cyber+Security;Research+%7C+Backend+Engineering;Always+Building+Something+New" />
 
 ### Computer Science Student • AI & Machine Learning • Cloud Computing • Cyber Security
 
@@ -11,12 +11,22 @@ Building software that transforms ideas into practical, real-world applications.
 <br>
 
 <a href="mailto:nzachp@gmail.com">
-<img src="https://img.shields.io/badge/Email-nzachp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/noahzach/">
-<img src="https://img.shields.io/badge/LinkedIn-Noah%20Zach-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br><br>
+
+📧 <a href="mailto:nzachp@gmail.com"><b>nzachp@gmail.com</b></a>
+
+<br>
+
+💼 <a href="https://www.linkedin.com/in/noahzach/"><b>linkedin.com/in/noahzach</b></a>
 
 </div>
 
@@ -24,43 +34,38 @@ Building software that transforms ideas into practical, real-world applications.
 
 # 👨‍💻 About Me
 
-I'm a Computer Science student who enjoys designing and building software across **Artificial Intelligence**, **Cloud Computing**, **Cyber Security**, and **Backend Development**.
+I'm a Computer Science student passionate about building software across **Artificial Intelligence**, **Cloud Computing**, **Cyber Security**, and **Backend Development**.
 
-I like taking ideas from research papers, hackathons, and real-world problems and turning them into working applications.
+I enjoy transforming ideas from research papers, hackathons, and real-world problems into practical applications.
 
-Currently, I'm exploring efficient AI systems, cloud security, and scalable backend engineering.
+My interests include scalable systems, efficient AI, cloud infrastructure, and building software that solves meaningful problems.
 
 ---
 
 # 🚀 Featured Projects
 
 ### 👻 GhostWire
-
-Hallucination detection framework for Large Language Models.
+Hallucination detection framework for Large Language Models focused on improving AI reliability.
 
 ---
 
 ### ☁️ CloudGuard
-
-Google Cloud IAM & ACL Security Analyzer.
+Security analysis platform for Google Cloud IAM policies and Access Control Lists.
 
 ---
 
 ### 📈 Quantitative Trading Engine
-
-Machine learning-powered quantitative trading platform for market research and backtesting.
+Machine learning-powered quantitative trading platform featuring data pipelines, predictive models, and backtesting.
 
 ---
 
 ### 🧠 Dynamic Layer Routing
-
-Research exploring efficient inference for Large Language Models.
+Research project exploring efficient inference techniques for Large Language Models.
 
 ---
 
 ### 📋 Student Task Manager
-
-Full-stack task management application.
+Full-stack task management application built for productivity and collaboration.
 
 ---
 
@@ -68,166 +73,89 @@ Full-stack task management application.
 
 ## 💻 Languages
 
-<table>
-<tr align="center">
+<p align="center">
 
-<td>
-<img src="https://skillicons.dev/icons?i=python" width="60"/><br>
-<sub><b>Python</b></sub>
-</td>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts"/>
 
-<td>
-<img src="https://skillicons.dev/icons?i=js" width="60"/><br>
-<sub><b>JavaScript</b></sub>
-</td>
+</p>
 
-<td>
-<img src="https://skillicons.dev/icons?i=ts" width="60"/><br>
-<sub><b>TypeScript</b></sub>
-</td>
+<p align="center">
 
-<td>
-<img src="https://skillicons.dev/icons?i=c" width="60"/><br>
-<sub><b>C</b></sub>
-</td>
+Python • C++ • C • Java • JavaScript • TypeScript
 
-<td>
-<img src="https://skillicons.dev/icons?i=cpp" width="60"/><br>
-<sub><b>C++</b></sub>
-</td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=java" width="60"/><br>
-<sub><b>Java</b></sub>
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
 ## 🤖 Artificial Intelligence & Machine Learning
 
-<table>
-<tr align="center">
+<p align="center">
 
-<td>
-<img src="https://skillicons.dev/icons?i=pytorch" width="60"/><br>
-<sub><b>PyTorch</b></sub>
-</td>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
-<td>
-<img src="https://skillicons.dev/icons?i=tensorflow" width="60"/><br>
-<sub><b>TensorFlow</b></sub>
-</td>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/>
 
-<td>
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="60"/><br>
-<sub><b>Scikit-Learn</b></sub>
-</td>
+<img src="https://cdn.simpleicons.org/pandas/150458" height="48"/>
 
-<td>
-<img src="https://cdn.simpleicons.org/pandas/150458" width="60"/><br>
-<sub><b>Pandas</b></sub>
-</td>
+<img src="https://cdn.simpleicons.org/numpy/013243" height="48"/>
 
-<td>
-<img src="https://cdn.simpleicons.org/numpy/013243" width="60"/><br>
-<sub><b>NumPy</b></sub>
-</td>
+<img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height="48"/>
 
-<td>
-<img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="60"/><br>
-<sub><b>XGBoost</b></sub>
-</td>
+</p>
 
-</tr>
-</table>
+<p align="center">
+
+PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy • XGBoost
+
+</p>
 
 ---
 
-## ⚙ Backend Development
+## ⚙️ Backend Development
 
-<table>
-<tr align="center">
+<p align="center">
 
-<td>
-<img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>
-<sub><b>Node.js</b></sub>
-</td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 
-<td>
-<img src="https://skillicons.dev/icons?i=express" width="60"/><br>
-<sub><b>Express</b></sub>
-</td>
+</p>
 
-<td>
-<img src="https://skillicons.dev/icons?i=fastapi" width="60"/><br>
-<sub><b>FastAPI</b></sub>
-</td>
+<p align="center">
 
-</tr>
-</table>
+Node.js • Express • FastAPI
+
+</p>
 
 ---
 
-## ☁ Cloud & DevOps
+## ☁️ Cloud & DevOps
 
-<table>
-<tr align="center">
+<p align="center">
 
-<td>
-<img src="https://skillicons.dev/icons?i=gcp" width="60"/><br>
-<sub><b>Google Cloud</b></sub>
-</td>
+<img src="https://skillicons.dev/icons?i=gcp,docker,linux,git,github"/>
 
-<td>
-<img src="https://skillicons.dev/icons?i=docker" width="60"/><br>
-<sub><b>Docker</b></sub>
-</td>
+</p>
 
-<td>
-<img src="https://skillicons.dev/icons?i=linux" width="60"/><br>
-<sub><b>Linux</b></sub>
-</td>
+<p align="center">
 
-<td>
-<img src="https://skillicons.dev/icons?i=git" width="60"/><br>
-<sub><b>Git</b></sub>
-</td>
+Google Cloud • Docker • Linux • Git • GitHub
 
-<td>
-<img src="https://skillicons.dev/icons?i=github" width="60"/><br>
-<sub><b>GitHub</b></sub>
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
 ## 🗄 Databases
 
-<table>
-<tr align="center">
+<p align="center">
 
-<td>
-<img src="https://skillicons.dev/icons?i=postgres" width="60"/><br>
-<sub><b>PostgreSQL</b></sub>
-</td>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 
-<td>
-<img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>
-<sub><b>MySQL</b></sub>
-</td>
+</p>
 
-<td>
-<img src="https://skillicons.dev/icons?i=sqlite" width="60"/><br>
-<sub><b>SQLite</b></sub>
-</td>
+<p align="center">
 
-</tr>
-</table>
+PostgreSQL • MySQL • SQLite
+
+</p>
 
 ---
 
@@ -236,17 +164,27 @@ Full-stack task management application.
 - 🧠 Large Language Models
 - ☁️ Cloud Security
 - 🚀 MLOps
-- ⚙️ System Design
+- ⚙️ Distributed Systems
 - 📦 Containerization
-- 🔬 Distributed Systems
+- 🏗️ System Design
 
 ---
 
-# 🎧 What I'm Listening To
+# 🎯 Current Focus
+
+- Building AI-powered applications
+- Exploring scalable cloud architectures
+- Researching efficient LLM inference
+- Contributing to open-source projects
+- Learning advanced backend engineering
+
+---
+
+# 🎧 Currently Listening To
 
 <p align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ohphaiqdaegp4fwfry1lrbk50&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=1DB954&bar_color_cover=false"/>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ohphaiqdaegp4fwfry1lrbk50&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
 
 </p>
 
@@ -254,15 +192,25 @@ Full-stack task management application.
 
 <div align="center">
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
 <a href="mailto:nzachp@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/noahzach/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br><br>
+
+📧 <a href="mailto:nzachp@gmail.com"><b>nzachp@gmail.com</b></a>
+
+<br>
+
+💼 <a href="https://www.linkedin.com/in/noahzach/"><b>linkedin.com/in/noahzach</b></a>
 
 </div>
 
@@ -273,6 +221,8 @@ Full-stack task management application.
 ### 💭 Philosophy
 
 > **"Build. Learn. Improve. Repeat."**
+
+*"Great software begins with curiosity and is refined through continuous learning."*
 
 ⭐ Thanks for stopping by!
 
