@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey 👋 I'm Noah Zach
+# Hey I'm Noah Zach
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Building+AI+%26+Cloud+Projects;Interested+in+Cyber+Security;Always+Learning+Something+New" />
 
