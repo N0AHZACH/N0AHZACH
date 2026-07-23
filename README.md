@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noah Zach</h1>
+<h1 align="center">Hi, I'm Noah</h1>
 
 <h3 align="center">
 AI Engineer • Security Enthusiast • Cloud Developer • Researcher
